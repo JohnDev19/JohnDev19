@@ -1,16 +1,34 @@
-### Hi there 👋
+# John Ré Poras
 
-<!--
-**JohnDev19/JohnDev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm John Ré Poras, a passionate developer and creator.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in the world of technology involves exploring various domains, from web development to artificial intelligence.
+
+- 💻 Full Stack Developer
+- 🎓 Computer Science Student
+- 🌐 Open Source Contributor
+
+## Skills
+
+- **Programming Languages:** JavaScript, Python, PHP
+- **Web Technologies:** HTML, CSS, React, Node.js
+- **Databases:** MongoDB, MySQL
+- **Tools & Frameworks:** Git, VSCode, Bootstrap
+
+## Projects
+
+- [IPLookUp](https://github.com/yourusername/IPLookUp): A web application to fetch and display detailed information about the user's IP address.
+
+## Connect with Me
+
+- 🌐 Facebook: [JohnPoras](https://www.facebook.com/IamJohnPoras.org)
+
+## Support
+
+If you find my work valuable, consider supporting me:
+
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/yourusername)
+
+---
