@@ -39,7 +39,7 @@ My journey in the world of technology involves exploring various domains, from w
 
 If you find my work valuable, consider supporting me:
 
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/yourusername)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/rej418416g)
 
 ---
 
