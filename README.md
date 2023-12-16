@@ -2,8 +2,6 @@
 
 👋 Hello! I'm John Ré Poras, a passionate developer and creator.
 
-[<img align="left" width="390" alt="JohnDev19" src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/john.svg">](https://github.com/sponsors/JohnDev19)
-
 ## About Me
 
 My journey in the world of technology involves exploring various domains, from web development to artificial intelligence.
