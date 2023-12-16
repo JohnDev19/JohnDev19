@@ -23,7 +23,7 @@ My journey in the world of technology involves exploring various domains, from w
 
 ## Projects
 
-- [PasteGo](https://johndev19.github.io/pastego/): PasteGo is a simple and secure paste service that stores your data entirely in the link, without any database or back-end code. Easily share your text, code, or images with others, and they can access it without needing an account. It is an open-source tool that allows you to store and share codes
+- [PasteGo](https://johndev19.github.io/PasteGo/): PasteGo is a simple and secure paste service that stores your data entirely in the link, without any database or back-end code. Easily share your text, code, or images with others, and they can access it without needing an account. It is an open-source tool that allows you to store and share codes
 - [CodeCipher](https://johndev19.github.io/CodeCipher/): This website provides a simple and easy-to-use tool for obfuscating your code. Simply upload your code and select the desired obfuscation settings.
 - [Portfolio](https://johndev19.github.io/): My personal portfolio
 
