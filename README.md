@@ -31,7 +31,7 @@ My journey in the world of technology involves exploring various domains, from w
 
 [<img align="left" width="390" alt="JohnDev19" src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/metrics.plugin.stargazers.worldmap.svg">](https://github.com/sponsors/JohnDev19)
 
-- 🌐 Facebook: [JohnPoras](https://www.facebook.com/IamJohnPoras.org)
+🌐 Facebook: <kbd>JohnPoras<kbd>(https://www.facebook.com/IamJohnPoras.org)
 
 ## Support
 
