@@ -5,7 +5,11 @@
 <img align="center" width="100%" alt="Johndev19" src="https://raw.githubusercontent.com/JohnDev19/ReadMeGenius/main/github-contribution-grid-snake-dark.svg">
 
 My journey in the world of technology involves exploring various domains, from web development to artificial intelligence.
-![JohnDev19](https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="JohnDev19" width="200">
+</div>
+
 
 <img align="center" width="100%" alt="Johndev19" src="https://raw.githubusercontent.com/JohnDev19/ReadMeGenius/main/010.svg">
 
