@@ -13,17 +13,22 @@ My journey in the world of technology involves exploring various domains, from w
 
 I am currently exploring Web development and Artificial Intelligence.
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDev19)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDev19" alt="Top Langs">
+  </a>
+</p>
 
-<div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDev19&show_icons=true)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnDev19&show_icons=true" alt="GitHub stats">
+</p>
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JohnDev19)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JohnDev19" alt="trophy">
+  </a>
+</p>
+
 
 
 ## Programming Languages:
@@ -64,5 +69,6 @@ Here are some of my highlighted projects:
 <img align="center" width="100%" alt="Johndev19" src="https://raw.githubusercontent.com/JohnDev19/ReadMeGenius/main/reactions.svg">
 
 <div align="center">
-![Jokes Cavvrd](https://readme-jokes.vercel.app/api?theme=default)
+  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card">
 </div>
+
