@@ -6,7 +6,7 @@
 
 <div align="center">
   My journey in the world of technology involves exploring various domains, from web development to artificial intelligence.
-  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="JohnDev19" width="200">
+  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="John Rey Poras" width="200">
 </div>
 
 
