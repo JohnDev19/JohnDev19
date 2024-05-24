@@ -6,7 +6,7 @@
 </div>
 
 ## 🌱 Currently Learning
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I'm continuously expanding my skills and knowledge as a full stack developer. Here are some of the technologies and concepts I'm currently focusing on:
 
 ### Frontend
@@ -37,11 +37,17 @@ I'm continuously expanding my skills and knowledge as a full stack developer. He
 I'm always eager to learn and experiment with new technologies and best practices to enhance my development skills.
 
 
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JohnDev19&show_icons=true" alt="GitHub stats" height="195 width="400">
+    <img alt="Johndev19" src="https://streak-stats.demolab.com/?user=JohnDev19&theme=vue-dark">
   </a>
 </p>
+
+<br><br><div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JohnDev19)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 
 ## Programming Languages:
@@ -62,26 +68,11 @@ I'm always eager to learn and experiment with new technologies and best practice
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="SQL" />
 </div>
 
-<img align="center" width="100%" alt="Johndev19" src="https://raw.githubusercontent.com/JohnDev19/ReadMeGenius/main/topics.icons.svg">
+### 🌐 Connect with Me
+
+Let's connect and build the future together! You can reach me via [Behance](https://www.behance.net/johnrporas) or [Facebook](https://www.facebook.com/IamJohnPoras.org).
 
 
+---
 
-## GitHub Streak
-<img align="center" width="100%" alt="Johndev19" src="https://streak-stats.demolab.com/?user=JohnDev19&theme=vue-dark">
-
-## Connect with Me
-
-<a href="https://www.facebook.com/IamJohnPoras.org"><img src="https://img.shields.io/badge/Facebook-%23231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-
-
-<img align="center" width="100%" alt="Johndev19" src="https://raw.githubusercontent.com/JohnDev19/ReadMeGenius/main/metrics.plugin.stargazers.worldmap.svg">
-
-## Support
-- ☕ [Support Me]()
-
-<img align="center" width="100%" alt="Johndev19" src="https://raw.githubusercontent.com/JohnDev19/ReadMeGenius/main/reactions.svg">
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card">
-</div>
 
