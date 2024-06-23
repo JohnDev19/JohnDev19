@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="John Rey Poras"height="80" width="100">
+  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="John Rey Poras"height="240" width="300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDev19" alt="Top Langs" height="300" width="400">
 </div>
 
