@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="John Rey Poras"height="240" width="300">
+  <img src="https://raw.githubusercontent.com/JohnDev19/JohnDev19/main/IMG_20230825_192943.jpg" alt="JohnDev19"height="240" width="300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDev19" alt="Top Langs" height="300" width="400">
 </div>
 
@@ -67,11 +67,6 @@ I'm always eager to learn and experiment with new technologies and best practice
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="SQL" />
 </div>
-
-### 🌐 Connect with Me
-
-Let's connect and build the future together! You can reach me via [Behance](https://www.behance.net/johnrporas) or [Facebook](https://www.facebook.com/IamJohnPoras.org).
-
 
 ---
 
