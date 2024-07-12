@@ -7,7 +7,7 @@
 
 ## 🌱 Currently Learning
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="5p">
-I'm continuously expanding my skills and knowledge as a full stack developer. Here are some of the technologies and concepts I'm currently focusing on:
+I'm continuously expanding my skills and knowledge. Here are some of the technologies and concepts I'm currently focusing on:
 
 ### Frontend
 - **React.js**: Building dynamic and responsive user interfaces.
