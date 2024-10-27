@@ -1,6 +1,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDev19&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
-</p>
+</p> 
 <br><br><div align="center">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,7 +11,6 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=JohnDev19)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnDev19&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnDev19&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
